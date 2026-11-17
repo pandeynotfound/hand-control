@@ -43,7 +43,7 @@ HandControl uses computer vision to track hand landmarks and translate simple ge
 Clone the repository:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/HandControl.git
+git clone https://github.com/pandeynotfound/HandControl.git
 cd HandControl
 ```
 
